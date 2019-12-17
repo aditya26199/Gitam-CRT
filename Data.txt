@@ -1,0 +1,4 @@
+ we can add data in to the file through this command 
+ we can add data in to the file through this command 
+ line 3 
+hello 
