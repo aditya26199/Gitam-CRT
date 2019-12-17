@@ -2,3 +2,5 @@
  we can add data in to the file through this command 
  line 3 
 hello 
+line 1 data
+line 2 data
